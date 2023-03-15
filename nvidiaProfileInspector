@@ -1,0 +1,6 @@
+renamed some settings
+added setting to disable Vulkan RT support
+added quick filter CTRL + F (ESCAPE to abort)
+added devmode view (CTRL + ALT + D)
+added support for descriptions in CSN for future use (sample description on Ultra Low Latency - CPL State)
+small fixes
